@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 Every day learner...
 - 💞️ I’m looking to collaborate on ...
-- 📫 my email ndabosam084@gmail.com
+- 📫 Get in touch ndabosam084@gmail.com
 
 <!---
 Ndaboom/Ndaboom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
