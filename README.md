@@ -27,7 +27,7 @@ Like My Work?
 - 🛠 &nbsp; I’m currently working with Javascript, Vuejs, Php, <br /> Laravel, Mysql, Kotlin, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ndaboom).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/ndaboom/ndaboom/issues/2)! I am happy to help.
+- 💬 &nbsp; Ask me about anything [here](../../issues/)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: ndabosam084@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://github.com/ndaboom/ndaboom/blob/master/resume.pdf).
