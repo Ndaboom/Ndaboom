@@ -10,15 +10,13 @@
 
 I'm a undergraduate in Computer Science 🎓 from Kigali Independent University 🏛. I'm an every day learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
-Joined Github **4** years ago.
-
-Since then I pushed **2419**+ commits, opened **229**+ issues, submitted **276**+ pull requests, created **20**+ gists and contributed to **24**+ public repositories.
+Joined Github since more than **4** years ago.
 
 Like My Work?
 
 <a href="https://www.buymeacoffee.com/ndabosam08p" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
-[![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
+[![](https://gitwar.herokuapp.com/badge?username=ndaboom&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
