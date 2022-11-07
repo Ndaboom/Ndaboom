@@ -89,9 +89,9 @@ Like My Work?
       <tr>
 	<td><a href="https://github.com/ndaboom"><b>🤓 Sammy Ndabo</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/ndaboom?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/ndaboom?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/ndaboom?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ndaboom?style=flat-square"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/ndaboom/ndaboom?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/ndaboom/ndaboom?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ndaboom/ndaboom?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square"/></td> 
       </tr>
     </tbody>
