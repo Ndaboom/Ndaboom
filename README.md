@@ -13,8 +13,6 @@ My tech story started when my elder brother introduced me to video games ✨ on 
 I've spent the last years developing my skills working with different startups; skills gained are: building desktop applications via Java swing, building web applications front and back end (HTML, CSS, JS, VUEJS), building APIs(PHP, LARAVEL), collaboration skills and adaptability.
 
 
-I joined GitHub more than **4** years ago.
-
 Like My Work?
 
 <a href="https://www.buymeacoffee.com/ndabosam08p" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
