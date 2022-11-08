@@ -8,7 +8,10 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ndaboom&style=flat-square&color=0088cc)
 
-I'm a undergraduate in Computer Science 🎓 from Kigali Independent University 🏛. I'm an every day learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+My tech story started when my elder brother introduced me to video games on PC when I was still in high school. I’ve really enjoyed playing games since one day I discover that there’s much more to do than just playing games. Firstly I wanted to build my own video games but I realized that it could not be that good a game developed by only one person. That’s when I decided to build my own social media, released in September 2019 called [zungvi](https://zungvi.com). Since then my passion for coding never stopped increasing! I’m currently studying at Microverse, a remote software school, in order to improve myself further as a professional and to work on my Data Structures and Algorithms 🤓..
+
+I've spent the last years developing my skills working with different startups; skills gained are: building desktop applications via Java swing, building web applications front and back end (HTML, CSS, JS, VUEJS), building APIs(PHP, LARAVEL), collaboration skills and adaptability.
+
 
 I joined GitHub more than **4** years ago.
 
@@ -35,6 +38,8 @@ Like My Work?
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
 - 📰 &nbsp; Reading tech blogs whenever possible.
 - 🍕 &nbsp; Meetups & tech events.
+- 🏀 &nbsp; I love basketball
+- 🎮 &nbsp; Playing video games 
 
 ### Languages and Tools:
 
