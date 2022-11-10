@@ -27,7 +27,7 @@ Like My Work?
 - 💬 &nbsp; Ask me about anything [here](../../issues/)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: ndabosam084@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/ndaboom/ndaboom/blob/master/resume.pdf](https://docs.google.com/document/d/1T3ZfTeZnX3VbaGQVT6l8Xq7GKl1ryrNgc-5r1v31r70/edit?usp=sharing).
+- 📝 &nbsp; Checkout my [Resume](https://docs.google.com/document/d/1T3ZfTeZnX3VbaGQVT6l8Xq7GKl1ryrNgc-5r1v31r70/edit?usp=sharing).
 
 ### My Absolute Favorites:
 
