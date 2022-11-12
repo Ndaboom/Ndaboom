@@ -8,7 +8,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ndaboom&style=flat-square&color=0088cc)
 
-I'm a full-stack engineer with more than 4 years of experience. I've spent the last years developing my skills working with different startups; skills gained are the ability: to build desktop applications via Java swing, web applications both front and back end, collaboration skills, and adaptability. I’m currently studying at Microverse, a remote software engineering school, to improve myself further as a professional and to work on my Data Structures and Algorithms🤓... 
+I'm a full-stack developer with more than 4 years of experience. I've spent the last years developing my skills working with different startups; skills gained are the ability: to build desktop applications via Java swing, web applications both front and back end, collaboration skills, and adaptability. I’m currently studying at Microverse, a remote software engineering school, to improve myself further as a professional and to work on my Data Structures and Algorithms🤓... 
 Kindly Check out my resume [here](https://docs.google.com/document/d/1T3ZfTeZnX3VbaGQVT6l8Xq7GKl1ryrNgc-5r1v31r70/edit?usp=sharing) for more.
 
 
