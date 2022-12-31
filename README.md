@@ -21,8 +21,8 @@ Like My Work?
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Javascript, Vuejs, React, Php, <br /> Laravel, Mysql, Kotlin, etc.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 🛠 &nbsp; I’m currently working with Javascript, Vuejs, Php, <br /> Laravel, Mysql, Kotlin, etc.
+- 🚀 &nbsp; I’m currently learning React.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ndaboom).
 - 💬 &nbsp; Ask me about anything [here](../../issues/)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
